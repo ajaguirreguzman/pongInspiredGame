@@ -1,6 +1,7 @@
 # Pong-inspired table tennis game
+February 2013
 
-Written in February 2013. Simple, nice.
+Table tennis-themed game based on Atari's 1972 Pong game.
 
 ## Comments
 
